@@ -46,5 +46,5 @@ public class Task08 {
             }
             System.out.println("Result: " + z);
         }
-    }
+    }// Молодец. Зачтено.
 }
